@@ -37,7 +37,6 @@ const div = function (num1, num2) {
 }
 
 // EXPORT THE FOUR PUBLIC FUNCTIONS
-
 export {add};
 export {sub};
 export {mul};
